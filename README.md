@@ -69,16 +69,17 @@ Here are some ideas to get you started:
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
 <p align="center">
-<a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=N1LOY-V4U-CRACK&theme=vision-friendly-dark"></a>
+<a href="https://github.com/niloy0/N1LOY-V4U-CRACK"><img title="N1LOY-V4U-CRACK" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=N1LOY-V4U-CRACK&theme=vision-friendly-dark"></a>
 
 <p align="center">
-<a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=FB.Token-Cookies&theme=chartreuse-dark"></a>
+<a href="https://github.com/niloy0/FB.Token-Cookies"><img title="FB.Token-Cookies" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=FB.Token-Cookies&theme=chartreuse-dark"></a>
 
 <p align="center">
-<a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-VAU&theme=highcontrast"></a>
+<a href="https://github.com/niloy0/NILOY-ENCRYPT"><img title="NILOY-ENCRYPT" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-ENCRYPT&theme=highcontrast"></a>
 
 <p align="center">
-<a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=VAU-BANNER&theme=midnight-purple"></a>
+<a href="https://github.com/niloy0/VAU-BANNER"><img title="VAU-BANNER" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=VAU-BANNER&theme=midnight-purple"></a>
+
 
 ## Install on Termux
 🟩 pkg install python
