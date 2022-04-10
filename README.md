@@ -79,8 +79,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/Niloy404-Cyber/VAU-BANNER"><img title="VAU-BANNER" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=VAU-BANNER&theme=midnight-purple"></a>
+
 ## Install on Termux
-''''
+
 🟩 pkg install python
 
 🟩 pkg install python2
@@ -96,7 +97,7 @@ Here are some ideas to get you started:
 🟩 cd FB.Token-Cookies
 
 🟩 python2 Token.py
-''''
+
 🟩 NOTE : Search on Google chrome browser 👉MY USER AGENT👈
 
 🟩 Copy User Agent And Pest On Tarminal 
