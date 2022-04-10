@@ -11,7 +11,7 @@
 - ![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/Developer.gif)
 
 <!--
-**niloy0/niloy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Niloy404-Cyber/Niloy404-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -31,20 +31,20 @@ Here are some ideas to get you started:
 
 > MY PROFILE VISITORS :
 
-![Visitor Count](https://profile-counter.glitch.me/niloy/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Niloy404-Cyber/count.svg)
 
-- ![Profile views](https://gpvc.arturio.dev/niloy@@@@)
-- [![GitHub followers](https://img.shields.io/github/followers/niloy0.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/niloy0?tab=followers)
+- ![Profile views](https://gpvc.arturio.dev/Niloy404-Cyber)
+- [![GitHub followers](https://img.shields.io/github/followers/Niloy404-Cyber.svg?style=social&label=Follow&maxAge=0098900)](https://github.com/niloy0?tab=followers)
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
 > GITHUB STATES :
 
-<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Niloy404-Cyber&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niloy0&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Niloy404-Cyber&theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niloy0&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Niloy404-Cyber&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
@@ -58,30 +58,29 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCc-4SLIbh0NJtGPeQHbec6w
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucc-4slibh0njtgpeqhbec6w" height="30" width="40" /></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niloy0) <a href="https://github.com/niloy0"></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niloy0) <a href="https://github.com/Niloy404-Cyber"></a>
 
 </p>
 
-![](https://img.shields.io/badge/<N1LOY_V4U>-<niloy0-H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/<N1LOY_V4U>-<Niloy404-Cyber-H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
 <p align="center">
-<a href="https://github.com/niloy0/N1LOY-V4U-CRACK"><img title="N1LOY-V4U-CRACK" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=N1LOY-V4U-CRACK&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Niloy404-Cyber/N1LOY-V4U-CRACK"><img title="N1LOY-V4U-CRACK" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=N1LOY-V4U-CRACK&theme=vision-friendly-dark"></a>
 
 <p align="center">
-<a href="https://github.com/niloy0/FB.Token-Cookies"><img title="FB.Token-Cookies" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=FB.Token-Cookies&theme=chartreuse-dark"></a>
+<a href="https://github.com/Niloy404-Cyber/FB.Token-Cookies"><img title="FB.Token-Cookies" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=FB.Token-Cookies&theme=chartreuse-dark"></a>
 
 <p align="center">
-<a href="https://github.com/niloy0/NILOY-ENCRYPT"><img title="NILOY-ENCRYPT" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-ENCRYPT&theme=highcontrast"></a>
+<a href="https://github.com/Niloy404-Cyber/NILOY-ENCRYPT"><img title="NILOY-ENCRYPT" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-ENCRYPT&theme=highcontrast"></a>
 
 <p align="center">
-<a href="https://github.com/niloy0/VAU-BANNER"><img title="VAU-BANNER" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=VAU-BANNER&theme=midnight-purple"></a>
-
-
+<a href="https://github.com/Niloy404-Cyber/VAU-BANNER"><img title="VAU-BANNER" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=VAU-BANNER&theme=midnight-purple"></a>
 ## Install on Termux
+''''
 🟩 pkg install python
 
 🟩 pkg install python2
@@ -92,15 +91,16 @@ Here are some ideas to get you started:
 
 🟩 pip2 install bs4
 
-🟨 git clone https://github.com/niloy0/FB.Token-Cookies
+🟨 git clone https://github.com/Niloy404-Cyber/FB.Token-Cookies
 
 🟩 cd FB.Token-Cookies
 
 🟩 python2 Token.py
-
+''''
 🟩 NOTE : Search on Google chrome browser 👉MY USER AGENT👈
 
 🟩 Copy User Agent And Pest On Tarminal 
+
 
 > DATABASE:
 
@@ -134,7 +134,6 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-
 
 
 
