@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCc-4SLIbh0NJtGPeQHbec6w
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucc-4slibh0njtgpeqhbec6w" height="30" width="40" /></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niloy0) <a href="https://github.com/Niloy404-Cyber"></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Niloy404-Cyber) <a href="https://github.com/Niloy404-Cyber"></a>
 
 </p>
 
@@ -69,16 +69,16 @@ Here are some ideas to get you started:
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
 <p align="center">
-<a href="https://github.com/Niloy404-Cyber/N1LOY-V4U-CRACK"><img title="N1LOY-V4U-CRACK" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=N1LOY-V4U-CRACK&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Niloy404-Cyber/N1LOY-V4U-CRACK"><img title="N1LOY-V4U-CRACK" src="https://github-readme-stats.vercel.app/api/pin/?username=Niloy404-Cyber&repo=N1LOY-V4U-CRACK&theme=vision-friendly-dark"></a>
 
 <p align="center">
-<a href="https://github.com/Niloy404-Cyber/FB.Token-Cookies"><img title="FB.Token-Cookies" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=FB.Token-Cookies&theme=chartreuse-dark"></a>
+<a href="https://github.com/Niloy404-Cyber/FB.Token-Cookies"><img title="FB.Token-Cookies" src="https://github-readme-stats.vercel.app/api/pin/?username=Niloy404-Cyber&repo=FB.Token-Cookies&theme=chartreuse-dark"></a>
 
 <p align="center">
-<a href="https://github.com/Niloy404-Cyber/NILOY-ENCRYPT"><img title="NILOY-ENCRYPT" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-ENCRYPT&theme=highcontrast"></a>
+<a href="https://github.com/Niloy404-Cyber/NILOY-ENCRYPT"><img title="NILOY-ENCRYPT" src="https://github-readme-stats.vercel.app/api/pin/?username=Niloy404-Cyber&repo=NILOY-ENCRYPT&theme=highcontrast"></a>
 
 <p align="center">
-<a href="https://github.com/Niloy404-Cyber/VAU-BANNER"><img title="VAU-BANNER" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=VAU-BANNER&theme=midnight-purple"></a>
+<a href="https://github.com/Niloy404-Cyber/VAU-BANNER"><img title="VAU-BANNER" src="https://github-readme-stats.vercel.app/api/pin/?username=Niloy404-Cyber&repo=VAU-BANNER&theme=midnight-purple"></a>
 
 ## Install on Termux
 
